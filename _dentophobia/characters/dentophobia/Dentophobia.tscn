@@ -25,6 +25,7 @@ script = ExtResource( 3 )
 __meta__ = {
 "_editor_description_": ""
 }
+enable_extra_aesthetic_hitstop = true
 
 [node name="Sprite" parent="Flip" index="0"]
 material = SubResource( 1 )
